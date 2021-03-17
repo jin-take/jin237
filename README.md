@@ -1,16 +1,21 @@
-### Hi there 👋
+### jin237
+I'm a postgraduate student in Japan. I'm always sleeping. zzz
 
-<!--
-**jin237/jin237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming languages
+- Python
+- Java
+- Julia
+- Rust
+- PHP
+- HTML
+- CSS
+- Java script
 
-Here are some ideas to get you started:
+### About my GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jin237&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin237" />
+</a>
