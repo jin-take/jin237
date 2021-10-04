@@ -1,5 +1,13 @@
 ## Hello! I'm Jin! :smile:
-I'm a postgraduate student in Japan. I'm always sleeping. zzz
+![Metrics](https://metrics.lecoq.io/jin237?template=classic&config.timezone=Asia%2FTokyo)
+
+[<img align="left" alt="jin237 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jin2372)
+[<img align="left" alt="jin237 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/jin237)
+[<img align="left" alt="jin237 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/undersleepguitar/)
+[<img align="left" alt="jin237 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/takehiro.iino.3)
+<br />
+
+
 
 ## Languages and Tools:
 
@@ -35,15 +43,18 @@ I'm a postgraduate student in Japan. I'm always sleeping. zzz
 <br />
 
 ## About Jin's GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=jin237)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
 ![Jin's github stats top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jin237)
 ![Jin's github stats](https://github-readme-stats.vercel.app/api?username=jin237&count_private=true&show_icons=true)
+[![](https://raw.githubusercontent.com/jin237/jin237/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jin237/jin237/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<br />
-<br />
 
-## Connect with me:
-[<img align="left" alt="jin237 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jin2372)
-[<img align="left" alt="jin237 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/jin237)
-[<img align="left" alt="jin237 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/undersleepguitar/)
-[<img align="left" alt="jin237 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/takehiro.iino.3)
+
+
+
+
+
